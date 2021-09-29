@@ -1,8 +1,9 @@
 *.pyc
 __pycache__/
-.ipynb_checkpoints/
+*.ipynb_checkpoints/
 .vscode
 exp/
 *_pickle
 /*.csv
 /*.png
+*catboost_info/

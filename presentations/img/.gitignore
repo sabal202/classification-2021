@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+# Except 
+!*.png
+!*.svg
+!*.ps
+!*.jpeg
+!*.jpg
+!*.dot
